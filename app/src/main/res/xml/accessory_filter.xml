@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    The manufacturer and model strings MUST MATCH what your C#
+    application sends to the device to switch it into accessory mode.
+    If you are not switching mode from PC, these can be custom strings.
+    -->
+    <usb-accessory
+        manufacturer="Your Company"
+        model="Your App Model"
+        version="1.0" />
+</resources>
